@@ -15,7 +15,7 @@
 |<kbd>CapsLock</kbd> + <kbd>6</kbd>|<kbd>]</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>8</kbd>|<kbd>{</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>9</kbd>|<kbd>}</kbd>|
-|<kbd>CapsLock</kbd> + <kbd>7</kbd>|<kbd>&#8214;</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>7</kbd>|<kbd>&vert;</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>ß</kbd>|<kbd>\\</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>n</kbd>|<kbd>~</kbd>|
 
