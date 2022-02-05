@@ -18,6 +18,10 @@
 |<kbd>CapsLock</kbd> + <kbd>7</kbd>|<kbd>&vert;</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>ß</kbd>|<kbd>\\</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>n</kbd>|<kbd>~</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>r</kbd>|<kbd>Ctrl</kbd> + <kbd>r</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>x</kbd>|<kbd>Ctrl</kbd> + <kbd>x</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>c</kbd>|<kbd>Ctrl</kbd> + <kbd>c</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>v</kbd>|<kbd>Ctrl</kbd> + <kbd>v</kbd>|
 
 # Installation
 
