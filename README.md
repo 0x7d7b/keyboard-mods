@@ -1,6 +1,6 @@
 # Mappings (best for ISO-DE layouts)
 
-|Original|Windows Mapping|MacOS Mapping|
+|Original|Windows|MacOS|
 |-|-|-|
 |<kbd>CapsLock</kbd> + <kbd>i</kbd>|<kbd>Up</kbd>||
 |<kbd>CapsLock</kbd> + <kbd>k</kbd>|<kbd>Down</kbd>||
