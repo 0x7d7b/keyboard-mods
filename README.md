@@ -1,4 +1,4 @@
-# Mappings (ISO-DE)
+# Mappings (best for ISO-DE layouts)
 
 |Original|Mapped|
 |-|-|
