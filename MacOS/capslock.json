@@ -561,6 +561,32 @@
             }
           ],
           "from": {
+            "key_code": "d",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "d",
+              "modifiers": [
+                "left_control"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "conditions": [
+            {
+              "name": "caps_lock_active",
+              "type": "variable_if",
+              "value": 1
+            }
+          ],
+          "from": {
             "key_code": "v",
             "modifiers": {
               "optional": [

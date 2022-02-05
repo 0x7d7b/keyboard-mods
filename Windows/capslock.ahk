@@ -18,6 +18,7 @@ CapsLock & Ö:: End
 CapsLock & p:: Ins
 
 CapsLock & r:: send {Blind}{LCtrl}{r}
+CapsLock & d:: send {Blind}{LCtrl}{d}
 CapsLock & x:: send {Blind}{LCtrl}{x}
 CapsLock & c:: send {Blind}{LCtrl}{c}
 CapsLock & v:: send {Blind}{LCtrl}{v}
