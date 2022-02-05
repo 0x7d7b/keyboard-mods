@@ -1,6 +1,7 @@
 # Mappings (ISO-DE)
 
 |Original|Mapped|
+|-|-|
 |<kbd>CapsLock</kbd> + <kbd>i</kbd>|<kbd>Up</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>k</kbd>|<kbd>Down</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>j</kbd>|<kbd>Left</kbd>|
