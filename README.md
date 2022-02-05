@@ -1,4 +1,5 @@
 # Mappings (best for ISO-DE layouts)
+Tested on the Keychron K6. Mappings created based on my experience on the Vortex Pok3r.
 
 |Original|Windows|MacOS|
 |-|-|-|
