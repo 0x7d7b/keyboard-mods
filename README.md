@@ -24,6 +24,8 @@ Tested on the Keychron K6. Mappings created based on my experience on the Vortex
 |<kbd>CapsLock</kbd> + <kbd>x</kbd>|<kbd>Ctrl</kbd> + <kbd>x</kbd>|<kbd>Cmd</kbd> + <kbd>x</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>c</kbd>|<kbd>Ctrl</kbd> + <kbd>c</kbd>|<kbd>Cmd</kbd> + <kbd>c</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>v</kbd>|<kbd>Ctrl</kbd> + <kbd>v</kbd>|<kbd>Cmd</kbd> + <kbd>v</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>w</kbd>|<kbd>Ctrl</kbd> + <kbd>w</kbd>|<kbd>Cmd</kbd> + <kbd>w</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>t</kbd>|<kbd>Ctrl</kbd> + <kbd>t</kbd>|<kbd>Cmd</kbd> + <kbd>t</kbd>|
 
 # Installation
 
