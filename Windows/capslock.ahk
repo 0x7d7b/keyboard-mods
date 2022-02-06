@@ -22,6 +22,8 @@ CapsLock & d:: send {Blind}{LCtrl}{d}
 CapsLock & x:: send {Blind}{LCtrl}{x}
 CapsLock & c:: send {Blind}{LCtrl}{c}
 CapsLock & v:: send {Blind}{LCtrl}{v}
+CapsLock & w:: send {Blind}{LCtrl}{w}
+CapsLock & t:: send {Blind}{LCtrl}{t}
 
 CapsLock & (:: send {Blind}{[}
 CapsLock & ):: send {Blind}{]}
