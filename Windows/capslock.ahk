@@ -1,6 +1,8 @@
+﻿; Store this file with UTF-8 with BOM encoding!
 #NoEnv
 SendMode Input
 SetCapsLockState, AlwaysOff
+FileEncoding, UTF-8
 
 CapsLock & Backspace:: Delete
 
@@ -13,17 +15,17 @@ CapsLock & u:: PgUp
 CapsLock & o:: PgDn
 
 CapsLock & h:: Home
-CapsLock & Ö:: End
 
 CapsLock & p:: Ins
+CapsLock & Ö:: End
 
-CapsLock & r:: send {Blind}{LCtrl}{r}
-CapsLock & d:: send {Blind}{LCtrl}{d}
-CapsLock & x:: send {Blind}{LCtrl}{x}
-CapsLock & c:: send {Blind}{LCtrl}{c}
-CapsLock & v:: send {Blind}{LCtrl}{v}
-CapsLock & w:: send {Blind}{LCtrl}{w}
-CapsLock & t:: send {Blind}{LCtrl}{t}
+CapsLock & r:: send {Ctrl down}r{Ctrl up}
+CapsLock & d:: send {Ctrl down}d{Ctrl up}
+CapsLock & x:: send {Ctrl down}x{Ctrl up}
+CapsLock & c:: send {Ctrl down}c{Ctrl up}
+CapsLock & v:: send {Ctrl down}v{Ctrl up}
+CapsLock & w:: send {Ctrl down}w{Ctrl up}
+CapsLock & t:: send {Ctrl down}t{Ctrl up}
 
 CapsLock & (:: send {Blind}{[}
 CapsLock & ):: send {Blind}{]}
