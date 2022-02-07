@@ -26,6 +26,8 @@ CapsLock & x:: send {Ctrl down}x{Ctrl up}
 CapsLock & c:: send {Ctrl down}c{Ctrl up}
 CapsLock & v:: send {Ctrl down}v{Ctrl up}
 
+CapsLock & z:: send {Ctrl down}z{Ctrl up}
+
 CapsLock & w:: send {Ctrl down}w{Ctrl up}
 CapsLock & t:: send {Ctrl down}t{Ctrl up}
 CapsLock & n:: send {Ctrl down}n{Ctrl up}
