@@ -21,6 +21,7 @@ CapsLock & Ö:: End
 
 CapsLock & r:: send {Ctrl down}r{Ctrl up}
 CapsLock & d:: send {Ctrl down}d{Ctrl up}
+CapsLock & f:: send {Ctrl down}f{Ctrl up}
 
 CapsLock & x:: send {Ctrl down}x{Ctrl up}
 CapsLock & c:: send {Ctrl down}c{Ctrl up}
