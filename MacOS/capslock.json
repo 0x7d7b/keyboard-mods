@@ -381,7 +381,7 @@
             }
           ],
           "from": {
-            "key_code": "n",
+            "key_code": "+",
             "modifiers": {
               "optional": [
                 "any"

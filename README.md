@@ -18,7 +18,8 @@ Tested on the Keychron K6. Mappings created based on my experience on the Vortex
 |<kbd>CapsLock</kbd> + <kbd>9</kbd>|<kbd>}</kbd>|<kbd>}</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>7</kbd>|<kbd>&vert;</kbd>|<kbd>&vert;</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>ß</kbd>|<kbd>\\</kbd>|<kbd>\\</kbd>|
-|<kbd>CapsLock</kbd> + <kbd>n</kbd>|<kbd>~</kbd>|<kbd>~</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>+</kbd>|<kbd>~</kbd>|<kbd>~</kbd>|
+|<kbd>CapsLock</kbd> + <kbd>n</kbd>|<kbd>Ctrl</kbd> + <kbd>n</kbd>|<kbd>Ctrl</kbd> + <kbd>n</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>r</kbd>|<kbd>Ctrl</kbd> + <kbd>r</kbd>|<kbd>Ctrl</kbd> + <kbd>r</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>d</kbd>|<kbd>Ctrl</kbd> + <kbd>d</kbd>|<kbd>Ctrl</kbd> + <kbd>d</kbd>|
 |<kbd>CapsLock</kbd> + <kbd>x</kbd>|<kbd>Ctrl</kbd> + <kbd>x</kbd>|<kbd>Cmd</kbd> + <kbd>x</kbd>|
